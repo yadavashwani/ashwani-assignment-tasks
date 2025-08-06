@@ -471,7 +471,7 @@ display:
             operator_id: field_ingredients_op
             label: Ingredients
             description: ''
-            use_operator: true
+            use_operator: false
             operator: field_ingredients_op
             operator_limit_selection: false
             operator_list: {  }
@@ -516,7 +516,7 @@ display:
             operator_id: field_recipe_category_op
             label: 'Recipe category'
             description: ''
-            use_operator: true
+            use_operator: false
             operator: field_recipe_category_op
             operator_limit_selection: false
             operator_list: {  }
@@ -568,7 +568,7 @@ display:
             operator_id: field_tags_op
             label: Tags
             description: ''
-            use_operator: true
+            use_operator: false
             operator: field_tags_op
             operator_limit_selection: false
             operator_list: {  }
