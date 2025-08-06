@@ -1,0 +1,13 @@
+uuid: 6e1d2744-59b3-410a-8180-dd680d0a3f18
+langcode: en
+status: true
+dependencies:
+  module:
+    - media
+_core:
+  default_config_hash: 9AxBqzhw93Eoonvxvqn4V4xPFefPqF3gm5NTEUi1gx4
+id: media.medium_8_7
+label: 'Medium 8:7'
+description: ''
+targetEntityType: media
+cache: true
