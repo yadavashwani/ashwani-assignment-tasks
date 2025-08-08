@@ -1,0 +1,9 @@
+uuid: 5f3a5b5e-8f44-4f29-add2-77af4c031088
+langcode: en
+status: true
+dependencies: {  }
+id: search_api__views_page__faceted_search__page_1
+name: 'search_api:views_page__faceted_search__page_1'
+filter_key: null
+url_processor: query_string
+breadcrumb: {  }
